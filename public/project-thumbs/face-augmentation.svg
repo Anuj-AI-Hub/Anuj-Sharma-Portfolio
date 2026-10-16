@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#081220"/>
+      <stop offset="100%" stop-color="#1a1935"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg)"/>
+  <g transform="translate(155 115)">
+    <circle cx="250" cy="170" r="120" fill="#0d1830" stroke="#2a355d" stroke-width="6"/>
+    <circle cx="250" cy="170" r="90" fill="#00E5FF" opacity="0.16"/>
+    <circle cx="210" cy="150" r="14" fill="#EAF7FF"/>
+    <circle cx="290" cy="150" r="14" fill="#EAF7FF"/>
+    <path d="M210 200Q250 240 290 200" stroke="#EAF7FF" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <path d="M180 115L108 70" stroke="#8B5CF6" stroke-width="10" stroke-linecap="round"/>
+    <path d="M320 115L392 70" stroke="#8B5CF6" stroke-width="10" stroke-linecap="round"/>
+    <path d="M160 245L130 310" stroke="#00E5FF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M340 245L370 310" stroke="#00E5FF" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-weight="700" font-size="34">
+    <text x="95" y="110">FACE</text>
+    <text x="95" y="150">AUGMENTATION</text>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-size="18" opacity="0.9">
+    <text x="95" y="190">OpenCV • Image processing • Visual transforms</text>
+  </g>
+</svg>

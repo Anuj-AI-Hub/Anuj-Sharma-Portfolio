@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0a1220"/>
+      <stop offset="100%" stop-color="#171b38"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg)"/>
+  <g transform="translate(110 120)">
+    <rect x="0" y="0" width="680" height="250" rx="20" fill="#101935" stroke="#2a355d"/>
+    <path d="M120 210C150 150 180 120 220 110C270 98 330 120 370 180C405 220 455 220 500 180C550 136 610 150 650 210" stroke="url(#g)" stroke-width="10" fill="none"/>
+    <g fill="#EAF7FF" font-family="Arial, sans-serif" font-size="28">
+      <text x="120" y="90">Risk indicators</text>
+      <text x="420" y="90">Predicted class</text>
+    </g>
+    <circle cx="160" cy="170" r="10" fill="#00E5FF"/>
+    <circle cx="260" cy="135" r="10" fill="#8B5CF6"/>
+    <circle cx="360" cy="160" r="10" fill="#FFB547"/>
+    <circle cx="465" cy="145" r="10" fill="#00E5FF"/>
+    <circle cx="570" cy="185" r="10" fill="#8B5CF6"/>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-weight="700" font-size="34">
+    <text x="95" y="110">HEALTH</text>
+    <text x="95" y="150">CONDITION PREDICTION</text>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-size="18" opacity="0.9">
+    <text x="95" y="190">Educational ML classification</text>
+  </g>
+</svg>

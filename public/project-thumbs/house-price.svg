@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111a38"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#6ee7ff"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg)"/>
+  <circle cx="140" cy="110" r="120" fill="#00E5FF" opacity="0.12"/>
+  <circle cx="760" cy="130" r="130" fill="#8B5CF6" opacity="0.12"/>
+  <path d="M100 430L190 330L280 370L380 260L510 330L620 250L770 350V470H100Z" fill="#10233f"/>
+  <path d="M180 420L220 340L260 360L300 285L360 330L435 250L520 310L600 225L700 300V420H180Z" fill="url(#cyan)" opacity="0.9"/>
+  <path d="M210 420L245 315L310 350L372 268L435 290L520 180L610 260L690 210L760 255V420H210Z" fill="url(#violet)" opacity="0.72"/>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-weight="700" font-size="36">
+    <text x="95" y="110">HOUSE PRICE</text>
+    <text x="95" y="150">PREDICTION</text>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-size="18" opacity="0.9">
+    <text x="95" y="190">Regression • Features • Market Signals</text>
+  </g>
+</svg>

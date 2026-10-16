@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#081120"/>
+      <stop offset="100%" stop-color="#121b34"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg)"/>
+  <g transform="translate(110 120)">
+    <rect x="0" y="0" width="600" height="260" rx="22" fill="#131f38" stroke="#2b385d"/>
+    <rect x="28" y="38" width="545" height="52" rx="12" fill="#0d152b" stroke="#2b385d"/>
+    <rect x="28" y="110" width="545" height="52" rx="12" fill="#0d152b" stroke="#2b385d"/>
+    <rect x="28" y="182" width="545" height="52" rx="12" fill="#0d152b" stroke="#2b385d"/>
+    <circle cx="66" cy="64" r="10" fill="#00E5FF"/>
+    <circle cx="66" cy="136" r="10" fill="#8B5CF6"/>
+    <circle cx="66" cy="208" r="10" fill="#FFB547"/>
+    <text x="95" y="72" fill="#EAF7FF" font-family="Arial, sans-serif" font-size="22">How can I improve my model accuracy?</text>
+    <text x="95" y="145" fill="#EAF7FF" font-family="Arial, sans-serif" font-size="22">Explain the difference between clustering and classification.</text>
+    <text x="95" y="217" fill="#EAF7FF" font-family="Arial, sans-serif" font-size="22">Which features matter most for customer retention?</text>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-weight="700" font-size="34">
+    <text x="95" y="110">TEXT QUERY</text>
+    <text x="95" y="150">LABEL PREDICTOR</text>
+  </g>
+  <g fill="#EAF7FF" font-family="Arial, sans-serif" font-size="18" opacity="0.9">
+    <text x="95" y="190">NLP • Text cleaning • Classification</text>
+  </g>
+</svg>

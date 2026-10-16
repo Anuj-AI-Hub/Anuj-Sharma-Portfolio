@@ -1,0 +1,30 @@
+ANUJ SHARMA
+Data Science | Data Analytics | Machine Learning
+
+Profile:
+I am a data-focused learner with interest in analytics, visualization, statistical thinking, and machine learning. My work centers on Python, SQL, data cleaning, EDA, and practical project-based learning.
+
+Education:
+- B.A., Raj Rishi Bhartrihari Matsya University
+- Diploma in Data Science / AI & Machine Learning, TIPS-G, Alwar (2024–2026 expected completion)
+
+Skills:
+- Python, SQL, Pandas, NumPy
+- Data cleaning, exploratory data analysis, feature engineering
+- Matplotlib, Seaborn, Excel, Jupyter Notebook
+- Git and GitHub
+- Supervised learning, regression, classification, scikit-learn
+
+Project areas:
+- House price prediction
+- Fraud detection
+- Recommendation systems
+- NLP text classification
+- Computer vision and image-based experiments
+
+Contact:
+Email: anujsharma.email@example.com
+LinkedIn: https://www.linkedin.com/in/yourprofile
+GitHub: https://github.com/yourusername
+
+This resume is editable and should be replaced with verified details when available.
